@@ -1,4 +1,4 @@
-# 🚗 Analyse du Marché Automobile (550k+ lignes)
+# 🚗 Analyse du Marché Automobile
 
 ## Présentation du Projet
 Ce projet, réalisé dans le cadre de mon **Master 2 en Data Science**, vise à transformer une masse de données brutes sur les ventes de voitures en **indicateurs stratégiques**. 
